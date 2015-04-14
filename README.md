@@ -38,7 +38,7 @@ AsyncContext aCtx = req.startAsync();
 // As soon as completed call:
 aCtx.complete();
 ```
-## An Couchbase related example
+## A Couchbase related example
 
 The following very basic and simple example just shows how to use an async. Servlet in order to perform an async. Get operation against Couchbase Server:
 
