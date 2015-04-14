@@ -1,4 +1,4 @@
-package com.couchbase.example.servlet;
+package com.couchbase.example.servlet.misc;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

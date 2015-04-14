@@ -1,6 +1,7 @@
 
 package com.couchbase.example.servlet;
 
+import com.couchbase.example.servlet.misc.Helper;
 import com.couchbase.client.java.AsyncBucket;
 import com.couchbase.client.java.document.JsonDocument;
 import com.couchbase.client.java.document.json.JsonObject;
